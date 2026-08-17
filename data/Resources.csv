@@ -1,0 +1,69 @@
+resource_id,name,role,team,allocation_pct,project_id
+R001,James Whitfield,Project Manager,Cybersecurity,50%,P001
+R002,Omar Ibrahim,Senior Developer,Cybersecurity,50%,P001
+R003,Ethan Larsen,Data Engineer,Cybersecurity,50%,P001
+R004,Aisha Whitfield,Solution Architect,Cybersecurity,75%,P001
+R005,Ethan Chen,Developer,Cybersecurity,100%,P001
+R006,Aisha Chen,Project Manager,Data & Analytics,75%,P002
+R007,Hana Chen,UX Designer,Data & Analytics,100%,P002
+R008,Chloe Kowalski,Security Analyst,Data & Analytics,50%,P002
+R009,Liam Alvarez,Change Manager,Data & Analytics,25%,P002
+R010,Omar Kowalski,Business Analyst,Data & Analytics,50%,P002
+R011,Omar Adeyemi,Project Manager,ERP Implementation,50%,P003
+R012,James Adeyemi,Solution Architect,ERP Implementation,50%,P003
+R013,Wei Tanaka,Integration Specialist,ERP Implementation,100%,P003
+R014,Chloe Novak,Change Manager,ERP Implementation,50%,P003
+R015,Omar Larsen,Senior Developer,ERP Implementation,50%,P003
+R016,Noah Singh,Project Manager,Digital Transformation,75%,P004
+R017,Marco Kim,Security Analyst,Digital Transformation,75%,P004
+R018,Emma Singh,Integration Specialist,Digital Transformation,50%,P004
+R019,Liam Okafor,QA Engineer,Digital Transformation,25%,P004
+R020,Chloe Dubois,Project Manager,Cybersecurity,50%,P005
+R021,Carlos Kim,Security Analyst,Cybersecurity,25%,P005
+R022,Wei Nair,Scrum Master,Cybersecurity,25%,P005
+R023,Carlos Adeyemi,Project Manager,CRM Rollout,50%,P006
+R024,Omar Alvarez,Senior Developer,CRM Rollout,50%,P006
+R025,Wei Fontaine,Security Analyst,CRM Rollout,75%,P006
+R026,Marco Larsen,Project Manager,Data & Analytics,75%,P007
+R027,James Whitfield,Change Manager,Data & Analytics,25%,P007
+R028,Omar Ibrahim,Business Analyst,Data & Analytics,50%,P007
+R029,Ethan Larsen,Solution Architect,Data & Analytics,100%,P007
+R030,Aisha Whitfield,UX Designer,Data & Analytics,100%,P007
+R031,Ethan Chen,Senior Developer,Data & Analytics,50%,P007
+R032,Aisha Chen,Project Manager,Cloud Migration,50%,P008
+R033,Hana Chen,Senior Developer,Cloud Migration,50%,P008
+R034,Chloe Kowalski,Business Analyst,Cloud Migration,50%,P008
+R035,Liam Alvarez,QA Engineer,Cloud Migration,25%,P008
+R036,Omar Kowalski,Data Engineer,Cloud Migration,50%,P008
+R037,Omar Adeyemi,Security Analyst,Cloud Migration,100%,P008
+R038,James Adeyemi,Project Manager,Digital Transformation,25%,P009
+R039,Wei Tanaka,UX Designer,Digital Transformation,50%,P009
+R040,Chloe Novak,Senior Developer,Digital Transformation,50%,P009
+R041,Omar Larsen,Project Manager,ERP Implementation,50%,P010
+R042,Noah Singh,Business Analyst,ERP Implementation,50%,P010
+R043,Marco Kim,Senior Developer,ERP Implementation,25%,P010
+R044,Emma Singh,Data Engineer,ERP Implementation,75%,P010
+R045,Liam Okafor,Scrum Master,ERP Implementation,25%,P010
+R046,Chloe Dubois,Developer,ERP Implementation,75%,P010
+R047,Carlos Kim,Project Manager,Cloud Migration,50%,P011
+R048,Wei Nair,Developer,Cloud Migration,50%,P011
+R049,Carlos Adeyemi,DevOps Engineer,Cloud Migration,50%,P011
+R050,Omar Alvarez,Data Engineer,Cloud Migration,25%,P011
+R051,Wei Fontaine,Project Manager,Infrastructure Modernization,25%,P012
+R052,Marco Larsen,Scrum Master,Infrastructure Modernization,50%,P012
+R053,James Whitfield,Data Engineer,Infrastructure Modernization,50%,P012
+R054,Omar Ibrahim,QA Engineer,Infrastructure Modernization,100%,P012
+R055,Ethan Larsen,Project Manager,Digital Transformation,50%,P013
+R056,Aisha Whitfield,Security Analyst,Digital Transformation,50%,P013
+R057,Ethan Chen,Change Manager,Digital Transformation,100%,P013
+R058,Aisha Chen,Data Engineer,Digital Transformation,50%,P013
+R059,Hana Chen,Business Analyst,Digital Transformation,25%,P013
+R060,Chloe Kowalski,Solution Architect,Digital Transformation,25%,P013
+R061,Liam Alvarez,Project Manager,CRM Rollout,50%,P014
+R062,Omar Kowalski,Data Engineer,CRM Rollout,100%,P014
+R063,Omar Adeyemi,Integration Specialist,CRM Rollout,50%,P014
+R064,James Adeyemi,Scrum Master,CRM Rollout,50%,P014
+R065,Wei Tanaka,Change Manager,CRM Rollout,25%,P014
+R066,Chloe Novak,Solution Architect,CRM Rollout,75%,P014
+R067,Omar Larsen,Project Manager,ERP Implementation,75%,P015
+R068,Noah Singh,Change Manager,ERP Implementation,50%,P015

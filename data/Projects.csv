@@ -1,0 +1,16 @@
+project_id,project_name,client,team,start_date,baseline_end_date,budget,actual_spend,budget_variance_pct,status
+P001,Identity & Access Management Overhaul,Northwind Traders,Cybersecurity,06/05/2026,27/08/2026,320000.00,202300.00,-37%,Green
+P002,Customer Data Platform Rollout,Meridian Health Systems,Data & Analytics,07/08/2025,25/12/2025,720000.00,760600.00,6%,Amber
+P003,SAP S/4HANA Migration,Global Retail Corp,ERP Implementation,30/12/2025,23/10/2026,720000.00,139600.00,-22%,Red
+P004,Guest Experience Mobile App,Vantage Financial Group,Digital Transformation,17/10/2025,12/04/2026,410000.00,415200.00,1%,Green
+P005,Zero Trust Security Rollout,BrightPath Insurance,Cybersecurity,30/11/2025,26/03/2026,220000.00,229000.00,4%,Amber
+P006,Salesforce CRM Modernization,Coral Bay Hospitality,CRM Rollout,26/11/2025,28/07/2026,410000.00,428400.00,4%,Completed
+P007,BI & Reporting Modernization,TitanWorks Manufacturing,Data & Analytics,20/08/2025,19/12/2025,560000.00,503900.00,-10%,Green
+P008,Azure Cloud Migration - Phase 2,Solstice Energy,Cloud Migration,04/07/2025,09/03/2026,480000.00,527900.00,10%,Amber
+P009,E-Commerce Platform Replatform,Cascade Media Group,Digital Transformation,28/04/2026,12/01/2027,320000.00,345000.00,8%,Completed
+P010,Financial Close Automation,Harborview Logistics,ERP Implementation,22/01/2026,17/05/2026,560000.00,536500.00,-4%,Green
+P011,Hybrid Cloud Backup Modernization,Northwind Traders,Cloud Migration,16/11/2025,27/03/2026,480000.00,525100.00,9%,Amber
+P012,Network & Data Center Refresh,Meridian Health Systems,Infrastructure Modernization,27/05/2025,15/02/2026,220000.00,251400.00,14%,Red
+P013,Claims Processing Automation,Global Retail Corp,Digital Transformation,16/01/2026,27/05/2026,650000.00,746300.00,15%,Amber
+P014,Contact Center CRM Migration,Vantage Financial Group,CRM Rollout,28/06/2025,21/03/2026,720000.00,651700.00,-9%,Green
+P015,Warehouse Management System Upgrade,BrightPath Insurance,ERP Implementation,23/04/2026,18/09/2026,180000.00,180400.00,0%,Completed

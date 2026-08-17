@@ -1,0 +1,38 @@
+risk_id,project_id,description,likelihood Risk,impact on Project,risk_score,date_raised,date_resolved,risk_state
+RSK0001,P001,Client-side change management readiness behind schedule,High,Medium,6,"Wednesday, June 17, 2026",,Open
+RSK0002,P001,Client sign-off on requirements delayed beyond baseline date,Medium,Medium,4,"Thursday, May 21, 2026",,Open
+RSK0003,P002,Interface defects found late due to incomplete test coverage,High,High,9,"Wednesday, October 29, 2025",,Open
+RSK0004,P002,Regulatory/compliance requirement changed mid-project,Low,High,3,"Tuesday, October 21, 2025",,Open
+RSK0005,P002,Client-side change management readiness behind schedule,High,Medium,6,"Thursday, September 25, 2025",,Open
+RSK0006,P003,Infrastructure procurement lead time longer than planned,Medium,Medium,4,"Tuesday, May 19, 2026",,Open
+RSK0007,P003,Disaster recovery design not finalized ahead of go-live,Low,High,3,"Tuesday, March 17, 2026","Saturday, April 18, 2026",Resolved
+RSK0008,P003,Regulatory/compliance requirement changed mid-project,Low,High,3,"Sunday, July 19, 2026",,Open
+RSK0009,P003,Underestimated data volume impacting migration performance,Medium,High,6,"Monday, June 15, 2026","Saturday, July 18, 2026",Resolved
+RSK0010,P004,Security review identified gaps in access control design,Low,High,3,"Sunday, February 15, 2026",,Open
+RSK0011,P004,Interface defects found late due to incomplete test coverage,High,High,9,"Saturday, November 29, 2025",,Open
+RSK0012,P005,Interface defects found late due to incomplete test coverage,High,High,9,"Saturday, March 14, 2026",,Open
+RSK0013,P005,Key business SME availability reduced due to competing priorities,High,Medium,6,"Tuesday, December 30, 2025",,Open
+RSK0014,P005,Client sign-off on requirements delayed beyond baseline date,Medium,Medium,4,"Sunday, December 28, 2025",,Open
+RSK0015,P007,Legacy data quality issues discovered during migration dry-run,High,High,9,"Saturday, September 20, 2025",,Open
+RSK0016,P008,Client sign-off on requirements delayed beyond baseline date,Medium,Medium,4,"Saturday, January 3, 2026",,Open
+RSK0017,P008,Contractor visa/onboarding delay impacting staffing plan,Low,Medium,2,"Friday, November 7, 2025",,Open
+RSK0018,P008,Client-side change management readiness behind schedule,High,Medium,6,"Sunday, August 10, 2025",,Open
+RSK0019,P008,Security review identified gaps in access control design,Low,High,3,"Saturday, July 5, 2025",,Open
+RSK0020,P010,Cross-team dependency on shared integration environment,Medium,Medium,4,"Monday, May 4, 2026",,Open
+RSK0021,P010,Infrastructure procurement lead time longer than planned,Medium,Medium,4,"Sunday, March 29, 2026",,Open
+RSK0022,P011,Cross-team dependency on shared integration environment,Medium,Medium,4,"Saturday, March 14, 2026",,Open
+RSK0023,P011,Third-party API rate limits insufficient for peak load scenarios,Low,High,3,"Thursday, February 5, 2026",,Open
+RSK0024,P011,Contractor visa/onboarding delay impacting staffing plan,Low,Medium,2,"Monday, March 9, 2026",,Open
+RSK0025,P011,Scope creep from unapproved change requests in UAT phase,High,Medium,6,"Wednesday, March 25, 2026",,Open
+RSK0026,P012,Contractor visa/onboarding delay impacting staffing plan,Low,Medium,2,"Tuesday, September 30, 2025",,Open
+RSK0027,P012,Infrastructure procurement lead time longer than planned,Medium,Medium,4,"Wednesday, October 15, 2025",,Open
+RSK0028,P012,Cloud cost overrun vs. sized estimate for non-prod environments,Medium,Low,2,"Friday, January 30, 2026",,Open
+RSK0029,P012,Training material delivery behind schedule for end users,Medium,Low,2,"Tuesday, October 14, 2025",,Open
+RSK0030,P012,Budget contingency eroded due to change order overruns,Medium,High,6,"Monday, October 20, 2025","Saturday, November 15, 2025",Resolved
+RSK0031,P013,Executive sponsor change introduced re-prioritization risk,Low,Medium,2,"Monday, February 23, 2026","Monday, March 9, 2026",Resolved
+RSK0032,P013,Client sign-off on requirements delayed beyond baseline date,Medium,Medium,4,"Wednesday, March 11, 2026","Saturday, April 11, 2026",Resolved
+RSK0033,P013,Scope creep from unapproved change requests in UAT phase,High,Medium,6,"Friday, April 10, 2026",,Open
+RSK0034,P014,Legacy data quality issues discovered during migration dry-run,High,High,9,"Thursday, January 29, 2026",,Open
+RSK0035,P014,Security review identified gaps in access control design,Low,High,3,"Tuesday, July 8, 2025",,Open
+RSK0036,P015,Underestimated data volume impacting migration performance,Medium,High,6,"Thursday, April 23, 2026","Wednesday, May 20, 2026",Resolved
+RSK0037,P015,Cloud cost overrun vs. sized estimate for non-prod environments,Medium,Low,2,"Sunday, May 31, 2026","Monday, June 29, 2026",Resolved

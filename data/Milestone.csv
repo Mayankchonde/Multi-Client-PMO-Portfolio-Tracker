@@ -1,0 +1,112 @@
+milestone_id,project_id,milestone_name,planned_date,actual_date,variance_days,status
+M0001,P001,Project Kickoff & Charter Sign-off,"Sunday, May 24, 2026","Sunday, May 24, 2026",0,Completed
+M0002,P001,Requirements Gathering Complete,"Friday, June 12, 2026","Sunday, June 14, 2026",-2,Completed
+M0003,P001,Solution Design Sign-off,"Wednesday, July 1, 2026","Wednesday, July 1, 2026",0,Completed
+M0004,P001,Environment Setup & Configuration,"Monday, July 20, 2026","Friday, July 24, 2026",-4,Delayed
+M0005,P001,Development / Build Complete,"Saturday, August 8, 2026",,,Pending
+M0006,P001,System Integration Testing (SIT),"Thursday, August 27, 2026",,,Pending
+M0007,P002,Project Kickoff & Charter Sign-off,"Friday, August 22, 2025",,,At Risk
+M0008,P002,Requirements Gathering Complete,"Sunday, September 7, 2025","Tuesday, September 9, 2025",-2,Completed
+M0009,P002,Solution Design Sign-off,"Monday, September 22, 2025","Sunday, September 28, 2025",-6,Delayed
+M0010,P002,Environment Setup & Configuration,"Wednesday, October 8, 2025","Sunday, October 19, 2025",-11,Delayed
+M0011,P002,Development / Build Complete,"Thursday, October 23, 2025","Sunday, November 2, 2025",-10,Delayed
+M0012,P002,System Integration Testing (SIT),"Saturday, November 8, 2025","Monday, November 10, 2025",-2,Completed
+M0013,P002,User Acceptance Testing (UAT),"Sunday, November 23, 2025","Sunday, November 23, 2025",0,Completed
+M0014,P002,Data Migration Dry Run,"Tuesday, December 9, 2025","Wednesday, December 10, 2025",-1,Completed
+M0015,P002,Go-Live Readiness Review,"Thursday, December 25, 2025","Sunday, December 28, 2025",-3,Completed
+M0016,P003,Project Kickoff & Charter Sign-off,"Sunday, February 1, 2026",,,At Risk
+M0017,P003,Requirements Gathering Complete,"Friday, March 6, 2026","Monday, March 23, 2026",-17,Delayed
+M0018,P003,Solution Design Sign-off,"Wednesday, April 8, 2026","Monday, April 27, 2026",-19,Delayed
+M0019,P003,Environment Setup & Configuration,"Monday, May 11, 2026","Tuesday, June 2, 2026",-22,Delayed
+M0020,P003,Development / Build Complete,"Saturday, June 13, 2026","Thursday, June 18, 2026",-5,Delayed
+M0021,P003,System Integration Testing (SIT),"Thursday, July 16, 2026","Friday, July 24, 2026",-8,Delayed
+M0022,P003,User Acceptance Testing (UAT),"Tuesday, August 18, 2026",,,Pending
+M0023,P003,Data Migration Dry Run,"Sunday, September 20, 2026",,,Pending
+M0024,P003,Go-Live Readiness Review,"Friday, October 23, 2026",,,Pending
+M0025,P004,Project Kickoff & Charter Sign-off,"Saturday, November 8, 2025","Monday, November 10, 2025",-2,Completed
+M0026,P004,Requirements Gathering Complete,"Sunday, November 30, 2025","Friday, November 28, 2025",2,Completed
+M0027,P004,Solution Design Sign-off,"Monday, December 22, 2025","Tuesday, December 23, 2025",-1,Completed
+M0028,P004,Environment Setup & Configuration,"Tuesday, January 13, 2026","Friday, January 16, 2026",-3,Completed
+M0029,P004,Development / Build Complete,"Wednesday, February 4, 2026","Tuesday, February 3, 2026",1,Completed
+M0030,P004,System Integration Testing (SIT),"Thursday, February 26, 2026","Monday, March 2, 2026",-4,Delayed
+M0031,P004,User Acceptance Testing (UAT),"Friday, March 20, 2026","Tuesday, March 17, 2026",3,Completed
+M0032,P004,Data Migration Dry Run,"Sunday, April 12, 2026","Monday, April 13, 2026",-1,Completed
+M0033,P005,Project Kickoff & Charter Sign-off,"Tuesday, December 16, 2025","Tuesday, December 30, 2025",-14,Delayed
+M0034,P005,Requirements Gathering Complete,"Friday, January 2, 2026","Friday, January 9, 2026",-7,Delayed
+M0035,P005,Solution Design Sign-off,"Sunday, January 18, 2026","Sunday, February 1, 2026",-14,Delayed
+M0036,P005,Environment Setup & Configuration,"Wednesday, February 4, 2026","Friday, February 6, 2026",-2,Completed
+M0037,P005,Development / Build Complete,"Friday, February 20, 2026","Monday, February 23, 2026",-3,Completed
+M0038,P005,System Integration Testing (SIT),"Monday, March 9, 2026","Monday, March 23, 2026",-14,Delayed
+M0039,P005,User Acceptance Testing (UAT),"Thursday, March 26, 2026","Friday, April 3, 2026",-8,Delayed
+M0040,P006,Project Kickoff & Charter Sign-off,"Monday, January 5, 2026","Wednesday, January 7, 2026",-2,Completed
+M0041,P006,Requirements Gathering Complete,"Sunday, February 15, 2026","Monday, February 16, 2026",-1,Completed
+M0042,P006,Solution Design Sign-off,"Saturday, March 28, 2026","Saturday, March 28, 2026",0,Completed
+M0043,P006,Environment Setup & Configuration,"Thursday, May 7, 2026","Monday, May 4, 2026",3,Completed
+M0044,P006,Development / Build Complete,"Wednesday, June 17, 2026","Wednesday, June 17, 2026",0,Completed
+M0045,P006,System Integration Testing (SIT),"Tuesday, July 28, 2026",,,Pending
+M0046,P007,Project Kickoff & Charter Sign-off,"Tuesday, September 9, 2025","Sunday, September 7, 2025",2,Completed
+M0047,P007,Requirements Gathering Complete,"Monday, September 29, 2025","Friday, October 3, 2025",-4,Delayed
+M0048,P007,Solution Design Sign-off,"Sunday, October 19, 2025","Friday, October 17, 2025",2,Completed
+M0049,P007,Environment Setup & Configuration,"Saturday, November 8, 2025","Friday, November 7, 2025",1,Completed
+M0050,P007,Development / Build Complete,"Friday, November 28, 2025","Thursday, November 27, 2025",1,Completed
+M0051,P007,System Integration Testing (SIT),"Friday, December 19, 2025","Tuesday, December 23, 2025",-4,Delayed
+M0052,P008,Project Kickoff & Charter Sign-off,"Friday, August 8, 2025","Thursday, August 14, 2025",-6,Delayed
+M0053,P008,Requirements Gathering Complete,"Friday, September 12, 2025","Tuesday, September 23, 2025",-11,Delayed
+M0054,P008,Solution Design Sign-off,"Saturday, October 18, 2025","Wednesday, October 22, 2025",-4,Delayed
+M0055,P008,Environment Setup & Configuration,"Saturday, November 22, 2025","Tuesday, December 2, 2025",-10,Delayed
+M0056,P008,Development / Build Complete,"Sunday, December 28, 2025","Tuesday, January 6, 2026",-9,Delayed
+M0057,P008,System Integration Testing (SIT),"Sunday, February 1, 2026","Sunday, February 15, 2026",-14,Delayed
+M0058,P008,User Acceptance Testing (UAT),"Monday, March 9, 2026","Saturday, March 14, 2026",-5,Delayed
+M0059,P009,Project Kickoff & Charter Sign-off,"Saturday, May 30, 2026","Wednesday, May 27, 2026",3,Completed
+M0060,P009,Requirements Gathering Complete,"Wednesday, July 1, 2026","Monday, July 6, 2026",-5,Completed
+M0061,P009,Solution Design Sign-off,"Monday, August 3, 2026",,,Pending
+M0062,P009,Environment Setup & Configuration,"Friday, September 4, 2026",,,Pending
+M0063,P009,Development / Build Complete,"Tuesday, October 6, 2026",,,Pending
+M0064,P009,System Integration Testing (SIT),"Sunday, November 8, 2026",,,Pending
+M0065,P009,User Acceptance Testing (UAT),"Thursday, December 10, 2026",,,Pending
+M0066,P009,Data Migration Dry Run,"Tuesday, January 12, 2027",,,Pending
+M0067,P010,Project Kickoff & Charter Sign-off,"Saturday, February 7, 2026","Saturday, February 7, 2026",0,Completed
+M0068,P010,Requirements Gathering Complete,"Monday, February 23, 2026","Friday, February 20, 2026",3,Completed
+M0069,P010,Solution Design Sign-off,"Thursday, March 12, 2026","Tuesday, March 10, 2026",2,Completed
+M0070,P010,Environment Setup & Configuration,"Saturday, March 28, 2026","Wednesday, March 25, 2026",3,Completed
+M0071,P010,Development / Build Complete,"Tuesday, April 14, 2026","Tuesday, April 14, 2026",0,Completed
+M0072,P010,System Integration Testing (SIT),"Thursday, April 30, 2026","Tuesday, April 28, 2026",2,Completed
+M0073,P010,User Acceptance Testing (UAT),"Saturday, May 16, 2026","Wednesday, May 13, 2026",3,Completed
+M0074,P011,Project Kickoff & Charter Sign-off,"Tuesday, December 2, 2025","Tuesday, December 2, 2025",0,Completed
+M0075,P011,Requirements Gathering Complete,"Thursday, December 18, 2025","Wednesday, December 24, 2025",-6,Delayed
+M0076,P011,Solution Design Sign-off,"Sunday, January 4, 2026","Thursday, January 8, 2026",-4,Delayed
+M0077,P011,Environment Setup & Configuration,"Tuesday, January 20, 2026","Monday, February 2, 2026",-13,Delayed
+M0078,P011,Development / Build Complete,"Thursday, February 5, 2026","Wednesday, February 18, 2026",-13,Delayed
+M0079,P011,System Integration Testing (SIT),"Sunday, February 22, 2026",,,At Risk
+M0080,P011,User Acceptance Testing (UAT),"Tuesday, March 10, 2026","Saturday, March 21, 2026",-11,Delayed
+M0081,P011,Data Migration Dry Run,"Friday, March 27, 2026","Tuesday, April 7, 2026",-11,Delayed
+M0082,P012,Project Kickoff & Charter Sign-off,"Thursday, July 10, 2025","Tuesday, August 5, 2025",-26,Delayed
+M0083,P012,Requirements Gathering Complete,"Saturday, August 23, 2025",,,At Risk
+M0084,P012,Solution Design Sign-off,"Monday, October 6, 2025","Thursday, October 23, 2025",-17,Delayed
+M0085,P012,Environment Setup & Configuration,"Wednesday, November 19, 2025","Friday, December 19, 2025",-30,Delayed
+M0086,P012,Development / Build Complete,"Friday, January 2, 2026",,,At Risk
+M0087,P012,System Integration Testing (SIT),"Sunday, February 15, 2026","Monday, March 9, 2026",-22,Delayed
+M0088,P013,Project Kickoff & Charter Sign-off,"Friday, January 30, 2026","Monday, February 2, 2026",-3,Completed
+M0089,P013,Requirements Gathering Complete,"Saturday, February 14, 2026","Thursday, February 19, 2026",-5,Delayed
+M0090,P013,Solution Design Sign-off,"Saturday, February 28, 2026","Saturday, February 28, 2026",0,Completed
+M0091,P013,Environment Setup & Configuration,"Sunday, March 15, 2026",,,At Risk
+M0092,P013,Development / Build Complete,"Sunday, March 29, 2026","Friday, March 27, 2026",2,Completed
+M0093,P013,System Integration Testing (SIT),"Monday, April 13, 2026","Saturday, April 18, 2026",-5,Delayed
+M0094,P013,User Acceptance Testing (UAT),"Monday, April 27, 2026","Sunday, May 10, 2026",-13,Delayed
+M0095,P013,Data Migration Dry Run,"Tuesday, May 12, 2026","Friday, May 22, 2026",-10,Delayed
+M0096,P013,Go-Live Readiness Review,"Wednesday, May 27, 2026","Saturday, May 30, 2026",-3,Completed
+M0097,P014,Project Kickoff & Charter Sign-off,"Sunday, July 27, 2025","Monday, July 28, 2025",-1,Completed
+M0098,P014,Requirements Gathering Complete,"Tuesday, August 26, 2025","Saturday, August 30, 2025",-4,Delayed
+M0099,P014,Solution Design Sign-off,"Wednesday, September 24, 2025","Thursday, September 25, 2025",-1,Completed
+M0100,P014,Environment Setup & Configuration,"Friday, October 24, 2025","Monday, October 27, 2025",-3,Completed
+M0101,P014,Development / Build Complete,"Saturday, November 22, 2025","Wednesday, November 26, 2025",-4,Delayed
+M0102,P014,System Integration Testing (SIT),"Monday, December 22, 2025","Sunday, December 21, 2025",1,Completed
+M0103,P014,User Acceptance Testing (UAT),"Tuesday, January 20, 2026","Tuesday, January 20, 2026",0,Completed
+M0104,P014,Data Migration Dry Run,"Thursday, February 19, 2026","Friday, February 20, 2026",-1,Completed
+M0105,P014,Go-Live Readiness Review,"Saturday, March 21, 2026","Saturday, March 21, 2026",0,Completed
+M0106,P015,Project Kickoff & Charter Sign-off,"Sunday, May 17, 2026","Friday, May 22, 2026",-5,Completed
+M0107,P015,Requirements Gathering Complete,"Thursday, June 11, 2026","Monday, June 8, 2026",3,Completed
+M0108,P015,Solution Design Sign-off,"Monday, July 6, 2026","Wednesday, July 8, 2026",-2,Completed
+M0109,P015,Environment Setup & Configuration,"Thursday, July 30, 2026",,,Pending
+M0110,P015,Development / Build Complete,"Monday, August 24, 2026",,,Pending
+M0111,P015,System Integration Testing (SIT),"Friday, September 18, 2026",,,Pending
